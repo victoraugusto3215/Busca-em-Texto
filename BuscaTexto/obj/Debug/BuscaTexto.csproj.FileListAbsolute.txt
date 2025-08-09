@@ -1,0 +1,20 @@
+H:\Artur - Busca em texto\busca-texto-master\BuscaTexto\bin\Debug\BuscaTexto.exe.config
+H:\Artur - Busca em texto\busca-texto-master\BuscaTexto\bin\Debug\BuscaTexto.exe
+H:\Artur - Busca em texto\busca-texto-master\BuscaTexto\bin\Debug\BuscaTexto.pdb
+H:\Artur - Busca em texto\busca-texto-master\BuscaTexto\obj\Debug\BuscaTexto.csproj.AssemblyReference.cache
+H:\Artur - Busca em texto\busca-texto-master\BuscaTexto\obj\Debug\BuscaTexto.Form1.resources
+H:\Artur - Busca em texto\busca-texto-master\BuscaTexto\obj\Debug\BuscaTexto.Properties.Resources.resources
+H:\Artur - Busca em texto\busca-texto-master\BuscaTexto\obj\Debug\BuscaTexto.csproj.GenerateResource.cache
+H:\Artur - Busca em texto\busca-texto-master\BuscaTexto\obj\Debug\BuscaTexto.csproj.CoreCompileInputs.cache
+H:\Artur - Busca em texto\busca-texto-master\BuscaTexto\obj\Debug\BuscaTexto.exe
+H:\Artur - Busca em texto\busca-texto-master\BuscaTexto\obj\Debug\BuscaTexto.pdb
+H:\Artur - Busca em texto\busca-texto VICTOR e GUSTAVO\BuscaTexto\bin\Debug\BuscaTexto.exe.config
+H:\Artur - Busca em texto\busca-texto VICTOR e GUSTAVO\BuscaTexto\bin\Debug\BuscaTexto.exe
+H:\Artur - Busca em texto\busca-texto VICTOR e GUSTAVO\BuscaTexto\bin\Debug\BuscaTexto.pdb
+H:\Artur - Busca em texto\busca-texto VICTOR e GUSTAVO\BuscaTexto\obj\Debug\BuscaTexto.csproj.AssemblyReference.cache
+H:\Artur - Busca em texto\busca-texto VICTOR e GUSTAVO\BuscaTexto\obj\Debug\BuscaTexto.Form1.resources
+H:\Artur - Busca em texto\busca-texto VICTOR e GUSTAVO\BuscaTexto\obj\Debug\BuscaTexto.Properties.Resources.resources
+H:\Artur - Busca em texto\busca-texto VICTOR e GUSTAVO\BuscaTexto\obj\Debug\BuscaTexto.csproj.GenerateResource.cache
+H:\Artur - Busca em texto\busca-texto VICTOR e GUSTAVO\BuscaTexto\obj\Debug\BuscaTexto.csproj.CoreCompileInputs.cache
+H:\Artur - Busca em texto\busca-texto VICTOR e GUSTAVO\BuscaTexto\obj\Debug\BuscaTexto.exe
+H:\Artur - Busca em texto\busca-texto VICTOR e GUSTAVO\BuscaTexto\obj\Debug\BuscaTexto.pdb
