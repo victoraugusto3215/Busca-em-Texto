@@ -6,12 +6,6 @@ permitindo que o usuário carregue arquivos `.txt` e `.rtf`, realize pesquisas u
 
 ---
 
-## 📌 Descrição do Projeto
-
-Este projeto implementa quatro métodos clássicos de **busca em texto**, permitindo ao usuário pesquisar por cadeias de caracteres em arquivos `.txt` ou `.rtf`, com possibilidade de substituição e destaque das ocorrências encontradas.
-
----
-
 ## 🔍 Métodos de Busca Implementados
 
 1. **Força Bruta**  
