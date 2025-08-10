@@ -1,8 +1,9 @@
 # 📝 Métodos de Busca em Texto
 
-**Curso:** Bacharelado em Sistemas de Informação  
-**Disciplina:** Algoritmos e Estruturas de Dados II  
-**Professor:** Virgilio Borges de Oliveira  
+Este projeto foi desenvolvido como parte da disciplina de **Algoritmos e Estruturas de Dados II**, no curso de **Bacharelado em Sistemas de Informação**, 
+ministrada pelo professor **Virgilio Borges de Oliveira**. O objetivo é implementar, de forma prática e interativa, quatro métodos clássicos de **busca em texto**,
+permitindo que o usuário carregue arquivos `.txt` e `.rtf`, realize pesquisas usando diferentes algoritmos e visualize as ocorrências encontradas destacadas no texto.
+
 ---
 
 ## 📌 Descrição do Projeto
